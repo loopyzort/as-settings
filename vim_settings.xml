@@ -237,9 +237,6 @@
       <file name="$USER_HOME$/source/strava/android/analytics/src/main/java/com/strava/analytics/Identity.java" timestamp="1541102551824">
         <mark key="'" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/common-handset/src/main/res/values/strings.xml" timestamp="1547846784727">
-        <mark key="'" line="4071" column="67" />
-      </file>
       <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/util/PhotoShareUtil.java" timestamp="1539021765219">
         <mark key="'" line="141" column="0" />
       </file>
@@ -276,7 +273,8 @@
       <file name="$USER_HOME$/source/strava/android/feed/src/main/java/com/strava/legacyanalytics/TrackableImpressionWatcher.java" timestamp="1549410681732">
         <mark key="'" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" timestamp="1549476245000">
+      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" timestamp="1549489962229">
+        <mark key="'" line="415" column="0" />
         <mark key="[" line="415" column="4" />
         <mark key="]" line="415" column="8" />
         <mark key="." line="415" column="8" />
@@ -329,13 +327,6 @@
       </file>
       <file name="/fragment.kt" timestamp="1548806758030">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" timestamp="1549480528545">
-        <mark key="'" line="284" column="4" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="53" column="91" />
       </file>
       <file name="$USER_HOME$/source/strava/android/publish/fastlane/Fastfile" timestamp="1539377478584">
         <mark key="'" line="211" column="11" />
@@ -543,7 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
       <jump line="16" column="99" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
       <jump line="17" column="73" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
       <jump line="175" column="51" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
@@ -643,6 +633,7 @@
       <jump line="281" column="6" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
       <jump line="203" column="4" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
       <jump line="284" column="4" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
+      <jump line="415" column="0" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
