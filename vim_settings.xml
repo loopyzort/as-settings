@@ -140,8 +140,8 @@
       <file name="$USER_HOME$/source/strava/android/activity-detail/src/main/java/com/strava/activity/view/ActivityDetailModularController.java" timestamp="1546627150804">
         <mark key="'" line="53" column="47" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/view/profile/ProfileActivityTest.kt" timestamp="1549491579167">
-        <mark key="'" line="83" column="56" />
+      <file name="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/view/profile/ProfileActivityTest.kt" timestamp="1549495309117">
+        <mark key="'" line="105" column="63" />
         <mark key="[" line="105" column="63" />
         <mark key="]" line="105" column="63" />
         <mark key="." line="105" column="63" />
@@ -168,8 +168,10 @@
       <file name="$USER_HOME$/source/strava/android/common-handset/common-handset.gradle" timestamp="1547165807292">
         <mark key="'" line="36" column="18" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/injection/HandsetProfileComponent.java" timestamp="1549416572829">
-        <mark key="[" line="23" column="9" />
+      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/injection/HandsetProfileComponent.java" timestamp="1549494579927">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/google/GoogleServiceContract.java" timestamp="1548813158339">
         <mark key="[" line="10" column="0" />
@@ -186,12 +188,12 @@
       <file name="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/util/CustomTabsHelper.java" timestamp="1544470340690">
         <mark key="'" line="64" column="61" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileViewModel.kt" timestamp="1549491395985">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="4" />
-        <mark key="^" line="10" column="90" />
-        <mark key="." line="37" column="4" />
+      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileViewModel.kt" timestamp="1549494780918">
+        <mark key="'" line="38" column="98" />
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="37" column="65" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="37" column="65" />
       </file>
       <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/superuser/SuperUserToolsActivity.java" timestamp="1549410488471">
         <mark key="'" line="474" column="8" />
@@ -280,12 +282,12 @@
       <file name="$USER_HOME$/source/strava/android/feed/src/main/java/com/strava/legacyanalytics/TrackableImpressionWatcher.java" timestamp="1549410681732">
         <mark key="'" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" timestamp="1549490957346">
-        <mark key="'" line="247" column="5" />
-        <mark key="[" line="418" column="0" />
-        <mark key="]" line="419" column="21" />
-        <mark key="." line="419" column="21" />
-        <mark key="^" line="419" column="21" />
+      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" timestamp="1549495356196">
+        <mark key="'" line="215" column="13" />
+        <mark key="[" line="223" column="4" />
+        <mark key="]" line="223" column="11" />
+        <mark key="." line="223" column="11" />
+        <mark key="^" line="223" column="11" />
       </file>
       <file name="$USER_HOME$/source/strava/android/view/build/generated/source/kapt/cyclingDebug/com/strava/view/ActivityTagTextView$$InjectAdapter.java" timestamp="1544647533257">
         <mark key="'" line="49" column="30" />
@@ -395,8 +397,11 @@
       <file name="$USER_HOME$/source/strava/android/profiling/src/main/java/com/strava/profiling/StravaPerfProvider.java" timestamp="1549326417346">
         <mark key="'" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/handset.gradle" timestamp="1549403126607">
-        <mark key="'" line="175" column="51" />
+      <file name="$USER_HOME$/source/strava/android/handset/handset.gradle" timestamp="1549495235427">
+        <mark key="'" line="207" column="47" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/source/strava/android/analytics/src/main/java/com/strava/analytics2/data/EventClientActionData.java" timestamp="1537490657542">
         <mark key="'" line="53" column="37" />
@@ -452,11 +457,11 @@
       <file name="/Dummy.txt" timestamp="1549400651887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/injection/ViewModelFactory.kt" timestamp="1549416546494">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="36" column="41" />
+      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/injection/ViewModelFactory.kt" timestamp="1549494638656">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="92" />
+        <mark key="." line="17" column="92" />
+        <mark key="^" line="17" column="92" />
       </file>
       <file name="$USER_HOME$/source/strava/android/subscriptions/src/main/java/com/strava/subscription/utils/PriceUtils.kt" timestamp="1541803740093">
         <mark key="'" line="65" column="22" />
@@ -497,8 +502,8 @@
       <file name="$USER_HOME$/source/strava/android/analytics/src/main/java/com/strava/analytics/CompositeAnalyticsStore.java" timestamp="1539205013984">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/build.gradle" timestamp="1549402917164">
-        <mark key="'" line="384" column="4" />
+      <file name="$USER_HOME$/source/strava/android/build.gradle" timestamp="1549494495440">
+        <mark key="'" line="499" column="28" />
       </file>
       <file name="$USER_HOME$/source/lib/snowplow-android-tracker/snowplow-tracker/src/main/java/com/snowplowanalytics/snowplow/tracker/storage/EventStore.java" timestamp="1544038900893">
         <mark key="'" line="0" column="0" />
@@ -541,19 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/superuser/SuperUserToolsActivity.java" />
-      <jump line="387" column="32" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/superuser/SuperUserToolsActivity.java" />
-      <jump line="474" column="8" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/superuser/SuperUserToolsActivity.java" />
-      <jump line="89" column="17" filename="$USER_HOME$/source/strava/android/feed/src/main/java/com/strava/legacyanalytics/TrackableImpressionWatcher.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/source/strava/android/feed/src/main/java/com/strava/legacyanalytics/TrackableImpressionWatcher.java" />
-      <jump line="413" column="0" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="493" column="16" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="102" column="1" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="122" column="65" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="126" column="40" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="128" column="64" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="133" column="61" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="134" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="138" column="68" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="139" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="151" column="62" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
@@ -582,7 +574,6 @@
       <jump line="211" column="41" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
       <jump line="359" column="9" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
       <jump line="365" column="19" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
       <jump line="86" column="18" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
       <jump line="87" column="18" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
       <jump line="159" column="13" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
@@ -641,6 +632,20 @@
       <jump line="87" column="42" filename="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/view/profile/ProfileActivityTest.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/view/profile/ProfileActivityTest.kt" />
       <jump line="83" column="56" filename="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/view/profile/ProfileActivityTest.kt" />
+      <jump line="510" column="28" filename="$USER_HOME$/source/strava/android/build.gradle" />
+      <jump line="38" column="98" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileViewModel.kt" />
+      <jump line="197" column="88" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
+      <jump line="205" column="0" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
+      <jump line="212" column="47" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
+      <jump line="208" column="0" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
+      <jump line="207" column="47" filename="$USER_HOME$/source/strava/android/handset/handset.gradle" />
+      <jump line="426" column="43" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
+      <jump line="105" column="63" filename="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/view/profile/ProfileActivityTest.kt" />
+      <jump line="164" column="0" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
+      <jump line="215" column="13" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -651,7 +656,7 @@
  * returns are as well.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">QFZpc2libGVGb3JUZXN0aW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>Visible</text>
@@ -660,37 +665,37 @@
         <text>https://docs.google.com/document/d/1hG5yPouc0Rq48gU4LmwVcMiGgaA5ZQC748ZL-58mGFg/edit?pli=1#heading=h.yhr4ydltbpe2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnQgPSBtb2NrKEdldEF0aGxldGVFdmVudDo6Y2xhc3MuamF2YSkKICAgICAgICB3aGVuZXZlcihldmVudC5oYXNFcnJvcnMoKSkudGhlblJldHVybihmYWxzZSkKICAgICAgICAvLyB0ZXN0QXRobGV0ZSBoYXMgbm8gY2x1YnMKICAgICAgICB3aGVuZXZlcihldmVudC5kYXRhKS50aGVuUmV0dXJuKHRlc3RBdGhsZXRlKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvL3Byb2ZpbGVBY3Rpdml0eS5vbkV2ZW50TWFpblRocmVhZChldmVudCkK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogJy4uL2dyYWRsZS1maWxlcy9saW50LmdyYWRsZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuZXZlcihhdGhsZXRlU3B5LmNsdWJzKS50aGVuUmV0dXJuKGNsdWJzKQogICAgICAgIHdoZW5ldmVyKGF0aGxldGVTcHkucmVxdWlyZXNGb2xsb3dlckFwcHJvdmFsKCkpLnRoZW5SZXR1cm4oZmFsc2UpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgIC8vIFRoZXJlJ3MgYSBidWcgd2l0aCB0ZXN0aW5nIGFuZCBkYXRhIGJpbmRpbmcgaW4gQUdQdjMuMSwKICAgIC8vIHNvIHRoaXMgZGVwZW5kZW5jeSBpcyBhZGRlZCBhcyBhIHdvcmthcm91bmQKICAgIC8vIGh0dHBzOi8vZ2l0aHViLmNvbS9yb2JvbGVjdHJpYy9yb2JvbGVjdHJpYy9pc3N1ZXMvMzc4OQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXZlbnQgPSBtb2NrKEdldEF0aGxldGVFdmVudDo6Y2xhc3MuamF2YSkKICAgICAgICB3aGVuZXZlcihldmVudC5oYXNFcnJvcnMoKSkudGhlblJldHVybihmYWxzZSkKICAgICAgICB3aGVuZXZlcihldmVudC5kYXRhKS50aGVuUmV0dXJuKGF0aGxldGVTcHkpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2x1YnMgPSBhcnJheU9mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>272</text>
+        <text>199</text>
       </register>
     </registers>
     <search>
@@ -704,15 +709,11 @@
     </search>
     <history>
       <history-search>
-        <entry>trackable</entry>
-        <entry>trackableId</entry>
-        <entry>mClientDe</entry>
         <entry>ProfileViewM</entry>
         <entry>inject</entry>
         <entry>ViewModel</entry>
         <entry>onClubView</entry>
         <entry>nonrecov</entry>
-        <entry encoding="base64">Pj4=</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>fetch</entry>
         <entry>Fetch</entry>
@@ -723,10 +724,13 @@
         <entry>onClubViewState</entry>
         <entry>Updates</entry>
         <entry>VisibleForTesting</entry>
+        <entry>room</entry>
+        <entry>livedata</entry>
+        <entry encoding="base64">Pj4=</entry>
+        <entry>mAthlete</entry>
         <entry>Visible</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
         <entry>39</entry>
         <entry>19</entry>
         <entry>133</entry>
@@ -746,6 +750,7 @@
         <entry>53</entry>
         <entry>159</entry>
         <entry>272</entry>
+        <entry>199</entry>
       </history-cmd>
       <history-expr />
       <history-input />
