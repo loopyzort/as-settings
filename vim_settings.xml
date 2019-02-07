@@ -330,6 +330,13 @@
       <file name="/fragment.kt" timestamp="1548806758030">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" timestamp="1549499290447">
+        <mark key="'" line="235" column="18" />
+        <mark key="[" line="149" column="15" />
+        <mark key="]" line="149" column="15" />
+        <mark key="." line="149" column="15" />
+        <mark key="^" line="147" column="80" />
+      </file>
       <file name="$USER_HOME$/source/strava/android/publish/fastlane/Fastfile" timestamp="1539377478584">
         <mark key="'" line="211" column="11" />
       </file>
@@ -539,11 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="68" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="139" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="151" column="62" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="152" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="156" column="67" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="157" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="161" column="74" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="163" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
@@ -639,6 +641,11 @@
       <jump line="105" column="63" filename="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/view/profile/ProfileActivityTest.kt" />
       <jump line="164" column="0" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
       <jump line="215" column="13" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" />
+      <jump line="115" column="16" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
+      <jump line="157" column="22" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
+      <jump line="236" column="18" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
+      <jump line="247" column="25" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
+      <jump line="234" column="18" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -649,40 +656,40 @@
  * returns are as well.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QFZpc2libGVGb3JUZXN0aW5nIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Visible</text>
+        <text>setOnCancel</text>
       </register>
       <register name="0" type="4">
         <text>https://docs.google.com/document/d/1hG5yPouc0Rq48gU4LmwVcMiGgaA5ZQC748ZL-58mGFg/edit?pli=1#heading=h.yhr4ydltbpe2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogJy4uL2dyYWRsZS1maWxlcy9saW50LmdyYWRsZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgIC8vIFRoZXJlJ3MgYSBidWcgd2l0aCB0ZXN0aW5nIGFuZCBkYXRhIGJpbmRpbmcgaW4gQUdQdjMuMSwKICAgIC8vIHNvIHRoaXMgZGVwZW5kZW5jeSBpcyBhZGRlZCBhcyBhIHdvcmthcm91bmQKICAgIC8vIGh0dHBzOi8vZ2l0aHViLmNvbS9yb2JvbGVjdHJpYy9yb2JvbGVjdHJpYy9pc3N1ZXMvMzc4OQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgIC8vIFRoZXJlJ3MgYSBidWcgd2l0aCB0ZXN0aW5nIGFuZCBkYXRhIGJpbmRpbmcgaW4gQUdQdjMuMSwKICAgIC8vIHNvIHRoaXMgZGVwZW5kZW5jeSBpcyBhZGRlZCBhcyBhIHdvcmthcm91bmQKICAgIC8vIGh0dHBzOi8vZ2l0aHViLmNvbS9yb2JvbGVjdHJpYy9yb2JvbGVjdHJpYy9pc3N1ZXMvMzc4OQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgQUFDIGFuZCBNVlZNIFByb2ZpbGVBY3Rpdml0eSBjbHViIGRpc3BsYXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -692,9 +699,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Visible</last-search>
+      <last-search>setOnCancel</last-search>
       <last-offset />
-      <last-pattern>Visible</last-pattern>
+      <last-pattern>setOnCancel</last-pattern>
       <last-replace>whenever</last-replace>
       <last-substitute>\`when\`</last-substitute>
       <last-dir>1</last-dir>
@@ -702,8 +709,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ProfileViewM</entry>
-        <entry>inject</entry>
         <entry>ViewModel</entry>
         <entry>onClubView</entry>
         <entry>nonrecov</entry>
@@ -722,6 +727,8 @@
         <entry encoding="base64">Pj4=</entry>
         <entry>mAthlete</entry>
         <entry>Visible</entry>
+        <entry>onResume</entry>
+        <entry>setOnCancel</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
