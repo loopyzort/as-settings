@@ -274,12 +274,12 @@
       <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/activity/view/ActivityDetailModularActivity.java" timestamp="1547770757448">
         <mark key="'" line="295" column="55" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/SplashActivityTest.kt" timestamp="1549504066848">
-        <mark key="'" line="124" column="14" />
-        <mark key="[" line="124" column="16" />
-        <mark key="]" line="124" column="14" />
-        <mark key="^" line="124" column="14" />
-        <mark key="." line="124" column="14" />
+      <file name="$USER_HOME$/source/strava/android/handset/src/test/java/com/strava/SplashActivityTest.kt" timestamp="1549505353593">
+        <mark key="'" line="123" column="14" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="123" column="14" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/source/lib/snowplow-android-tracker/snowplow-tracker/src/main/java/com/snowplowanalytics/snowplow/tracker/storage/EventStoreHelper.java" timestamp="1544039023684">
         <mark key="'" line="78" column="4" />
@@ -681,37 +681,37 @@
         <text encoding="base64">ICAgICAgICAvL2ludCBnb29nbGVQbGF5U2VydmljZXNBdmFpbGFibGVTdGF0dXMgPSBDb25uZWN0aW9uUmVzdWx0LlNFUlZJQ0VfVkVSU0lPTl9VUERBVEVfUkVRVUlSRUQ7IC8vIHJlc29sdmFibGUKICAgICAgICAvL2ludCBnb29nbGVQbGF5U2VydmljZXNBdmFpbGFibGVTdGF0dXMgPSBDb25uZWN0aW9uUmVzdWx0LlNJR05fSU5fUkVRVUlSRUQ7IC8vIHVucmVzb2x2YWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGp1bml0LkFzc2VydC5hc3NlcnRGYWxzZQppbXBvcnQganVuaXQuQXNzZXJ0LmFzc2VydFRydWUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKgppbXBvcnQgb3JnLm1vY2tpdG8uTW9ja2l0by4qCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGp1bml0LkFzc2VydC5hc3NlcnRGYWxzZQppbXBvcnQganVuaXQuQXNzZXJ0LmFzc2VydFRydWUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKgppbXBvcnQgb3JnLm1vY2tpdG8uTW9ja2l0by4qCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5JZ25vcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">YXBwbHkgZnJvbTogJy4uL2dyYWRsZS1maWxlcy9saW50LmdyYWRsZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBpbnRlcm5hbCBsYXRlaW5pdCB2YXIgbUdvb2dsZVNlcnZpY2VWZXJpZmllclZpZXc6IEdvb2dsZVNlcnZpY2VWZXJpZmllckNvbnRyYWN0LlZlcmlmaWVyVmlldwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5JZ25vcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFyZ3VtZW50TWF0Y2hlcnMK</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBpbnRlcm5hbCBsYXRlaW5pdCB2YXIgbUdvb2dsZVNlcnZpY2VWZXJpZmllclZpZXc6IEdvb2dsZVNlcnZpY2VWZXJpZmllckNvbnRyYWN0LlZlcmlmaWVyVmlldwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtU3BsYXNoQWN0aXZpdHkubUdvb2dsZVNlcnZpY2VWZXJpZmllclZpZXcgPSBtR29vZ2xlU2VydmljZVZlcmlmaWVyVmlldwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFyZ3VtZW50TWF0Y2hlcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJhdmEuU3BsYXNoQWN0aXZpdHkuQXBwTGF1bmNoUHJvZmlsZXJJbnRlcmZhY2UK</text>
+        <text encoding="base64">ICAgICAgICBtU3BsYXNoQWN0aXZpdHkubUdvb2dsZVNlcnZpY2VWZXJpZmllclZpZXcgPSBtR29vZ2xlU2VydmljZVZlcmlmaWVyVmlldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuCmltcG9ydCBvcmcubW9ja2l0by5Nb2NraXRvLioK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJhdmEuU3BsYXNoQWN0aXZpdHkuQXBwTGF1bmNoUHJvZmlsZXJJbnRlcmZhY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>61</text>
+        <text>22</text>
       </register>
     </registers>
     <search>
@@ -747,7 +747,6 @@
         <entry>AppLaunch</entry>
       </history-search>
       <history-cmd>
-        <entry>133</entry>
         <entry>163</entry>
         <entry>58</entry>
         <entry>333</entry>
@@ -767,6 +766,7 @@
         <entry>54</entry>
         <entry>w</entry>
         <entry>61</entry>
+        <entry>22</entry>
       </history-cmd>
       <history-expr />
       <history-input />
