@@ -169,9 +169,9 @@
         <mark key="'" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/injection/HandsetProfileComponent.java" timestamp="1549494579927">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/google/GoogleServiceContract.java" timestamp="1548813158339">
         <mark key="[" line="10" column="0" />
@@ -282,13 +282,6 @@
       <file name="$USER_HOME$/source/strava/android/feed/src/main/java/com/strava/legacyanalytics/TrackableImpressionWatcher.java" timestamp="1549410681732">
         <mark key="'" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/view/profile/ProfileActivity.java" timestamp="1549495356196">
-        <mark key="'" line="215" column="13" />
-        <mark key="[" line="223" column="4" />
-        <mark key="]" line="223" column="11" />
-        <mark key="." line="223" column="11" />
-        <mark key="^" line="223" column="11" />
-      </file>
       <file name="$USER_HOME$/source/strava/android/view/build/generated/source/kapt/cyclingDebug/com/strava/view/ActivityTagTextView$$InjectAdapter.java" timestamp="1544647533257">
         <mark key="'" line="49" column="30" />
       </file>
@@ -398,10 +391,10 @@
         <mark key="'" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/source/strava/android/handset/handset.gradle" timestamp="1549495235427">
-        <mark key="'" line="207" column="47" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+        <mark key="'" line="177" column="47" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/source/strava/android/analytics/src/main/java/com/strava/analytics2/data/EventClientActionData.java" timestamp="1537490657542">
         <mark key="'" line="53" column="37" />
@@ -503,7 +496,7 @@
         <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/source/strava/android/build.gradle" timestamp="1549494495440">
-        <mark key="'" line="499" column="28" />
+        <mark key="'" line="498" column="28" />
       </file>
       <file name="$USER_HOME$/source/lib/snowplow-android-tracker/snowplow-tracker/src/main/java/com/snowplowanalytics/snowplow/tracker/storage/EventStore.java" timestamp="1544038900893">
         <mark key="'" line="0" column="0" />
