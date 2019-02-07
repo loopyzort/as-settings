@@ -330,8 +330,8 @@
       <file name="/fragment.kt" timestamp="1548806758030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" timestamp="1549499290447">
-        <mark key="'" line="235" column="18" />
+      <file name="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" timestamp="1549500215680">
+        <mark key="'" line="133" column="19" />
         <mark key="[" line="149" column="15" />
         <mark key="]" line="149" column="15" />
         <mark key="." line="149" column="15" />
@@ -546,8 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
-      <jump line="161" column="74" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="163" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="167" column="65" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
       <jump line="168" column="63" filename="$USER_HOME$/source/strava/android/common-handset/src/main/java/com/strava/legacyanalytics/Analytics2Wrapper.java" />
@@ -646,6 +644,8 @@
       <jump line="236" column="18" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
       <jump line="247" column="25" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
       <jump line="234" column="18" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
+      <jump line="188" column="12" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
+      <jump line="133" column="19" filename="$USER_HOME$/source/strava/android/handset/src/main/java/com/strava/SplashActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -659,7 +659,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>setOnCancel</text>
+        <text>onAct</text>
       </register>
       <register name="0" type="4">
         <text>https://docs.google.com/document/d/1hG5yPouc0Rq48gU4LmwVcMiGgaA5ZQC748ZL-58mGFg/edit?pli=1#heading=h.yhr4ydltbpe2</text>
@@ -699,9 +699,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setOnCancel</last-search>
+      <last-search>onAct</last-search>
       <last-offset />
-      <last-pattern>setOnCancel</last-pattern>
+      <last-pattern>onAct</last-pattern>
       <last-replace>whenever</last-replace>
       <last-substitute>\`when\`</last-substitute>
       <last-dir>1</last-dir>
@@ -709,8 +709,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ViewModel</entry>
-        <entry>onClubView</entry>
         <entry>nonrecov</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>fetch</entry>
@@ -729,6 +727,8 @@
         <entry>Visible</entry>
         <entry>onResume</entry>
         <entry>setOnCancel</entry>
+        <entry>onStart</entry>
+        <entry>onAct</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
